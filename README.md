@@ -8,6 +8,6 @@
 *[virtual eeg electrodes](https://github.com/Svanteberg/Virtual-EEG-electrodes)
 
 # cns
-* [eeg dataset Tools for working with the Temple University Hospital EEG (TUHEEG) Corpus]https://github.com/DWonGH/tueg-tools
+* [eeg dataset Tools for working with the Temple University Hospital EEG (TUHEEG) Corpus](https://github.com/DWonGH/tueg-tools)
 * [synaptic dynamics  as convulational unit qith code iplementation](https://github.com/nauralcodinglab/flexible-stp)
 ##  Online Resources find out during search !
