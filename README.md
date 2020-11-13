@@ -11,3 +11,6 @@
 * [eeg dataset Tools for working with the Temple University Hospital EEG (TUHEEG) Corpus](https://github.com/DWonGH/tueg-tools)
 * [synaptic dynamics  as convulational unit qith code iplementation](https://github.com/nauralcodinglab/flexible-stp)
 ##  Online Resources find out during search !
+* [neuronunit ](https://github.com/appukuttan-shailesh/neuronunit)
+* [Example of a small simulation of the striatal circuitry ](https://github.com/pedroernesto/Snudda)
+* [example of personla site](http://shailesh-appukuttan.scienceontheweb.net/?section=3)
