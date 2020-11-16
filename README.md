@@ -10,7 +10,7 @@
 
 
 ## nlp
-nlp(https://a-coles.github.io/post/bert-illustre/)
+[nlp](https://a-coles.github.io/post/bert-illustre/)
 
 ## eeg
 *[virtual eeg electrodes](https://github.com/Svanteberg/Virtual-EEG-electrodes)
