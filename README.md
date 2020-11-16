@@ -3,6 +3,7 @@
 * [cogs108 ](https://github.com/COGS108)
 * [python Materials used for Python Tutorial for first year COGSCI grad student bootcamp](https://github.com/ShanEllis/bootcamp)
 * [machine learning](https://e2eml.school/machine_learning_resources.html)
+* (ml cheat sheet)(https://github.com/soulmachine/machine-learning-cheat-sheet)
 # some_stuff
 * [What is a Convolutional Neural Network-CNN EXPLAINER.](https://poloclub.github.io/cnn-explainer/)
 * [GAN EXPLAINER AND OTHER IMP. ML STUFF](https://poloclub.github.io/cnn-explainer/)
