@@ -17,6 +17,7 @@
 *[virtual eeg electrodes](https://github.com/Svanteberg/Virtual-EEG-electrodes)
 
 # cns
+* [computational neurosicince grop ](https://alexandria.physik3.uni-goettingen.de/cns-group/)
 * [eeg dataset Tools for working with the Temple University Hospital EEG (TUHEEG) Corpus](https://github.com/DWonGH/tueg-tools)
 * [synaptic dynamics  as convulational unit qith code iplementation](https://github.com/nauralcodinglab/flexible-stp)
 ##  Online Resources find out during search !
