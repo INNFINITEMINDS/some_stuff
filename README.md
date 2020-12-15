@@ -1,5 +1,8 @@
 ## math
 * [numerical linear algebra](https://github.com/fastai/numerical-linear-algebra)
+* [Learning Statistics with JASP](https://jasp-stats.org/teaching-with-jasp/)
+* [Learning Statistics with JASP](https://learnstatswithjasp.com/)
+*[stat with jasp3](https://osf.io/t56kg/wiki/YouTube%20Tutorials/)
 * [videos](https://www.youtube.com/watch?v=8iGzBMboA0I&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 * [mlMachine Learning
 10-601, Spring 2015
