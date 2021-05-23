@@ -1,3 +1,7 @@
+## control system 
+
+* [Dynamic sysytem](https://www.wiley.com/en-us/Dynamic+Systems%3A+Modeling%2C+Simulation%2C+and+Control%2C+1st+Edition-p-9781118289457)
+* [PCS](https://www.wiley.com/en-us/Physiological+Control+Systems%3A+Analysis%2C+Simulation%2C+and+Estimation%2C+2nd+Edition-p-9781119055334)
 ## math
 * [numerical linear algebra](https://github.com/fastai/numerical-linear-algebra)
 * [Learning Statistics with JASP](https://jasp-stats.org/teaching-with-jasp/)
